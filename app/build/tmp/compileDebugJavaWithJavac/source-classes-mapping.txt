@@ -1,0 +1,5 @@
+com/example/diceroll/BuildConfig.java
+ com.example.diceroll.BuildConfig
+com/example/diceroll/MainActivity.java
+ com.example.diceroll.MainActivity
+ com.example.diceroll.MainActivity$1
